@@ -1,7 +1,7 @@
 
 namespace lang.English domain
 
-    'Base vocabulary for the english langage.'
+    'Base vocabulary for the english language.'
 ;
 
 // Declaration of concepts
